@@ -1,4 +1,7 @@
-### Hi there 👋
+### 👋 Hi, I’m Pandika
+- 👀 I’m interested in Frontend Stuff like Angular, React, Tailwind
+- 🌱 I’m currently learning Angular, AngularJS, and React
+- 🙌🏽 Let's connect on LinkedIn: https://www.linkedin.com/in/pandikapinata/
 
 <!--
 **pandikapinata/pandikapinata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
