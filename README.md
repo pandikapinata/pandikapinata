@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Pandika
-- 👀 I’m interested in Frontend Stuff like Angular, React, Tailwind
-- 🌱 I’m currently learning Angular, AngularJS, and React
+- 👀 I’m interested in Frontend Stuff like Angular, Vue, React, Tailwind
+- 🌱 I’m currently learning Angular, AngularJS, and Vue
 - 🙌🏽 Let's connect on LinkedIn: https://www.linkedin.com/in/pandikapinata/
 
 <!--
