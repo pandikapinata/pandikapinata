@@ -2,6 +2,7 @@
 - 👀 I’m interested in Frontend Stuff like Angular, Vue, React, Tailwind
 - 🌱 I’m currently learning Angular, AngularJS, and Vue
 - 🙌🏽 Let's connect on LinkedIn: https://www.linkedin.com/in/pandikapinata/
+- My GitHub account for work: https://github.com/pandika-csgi
 
 <!--
 **pandikapinata/pandikapinata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
